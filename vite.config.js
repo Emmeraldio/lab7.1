@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Lab77/', // дуже важливо для правильних шляхів
+  base: '/Lab7.1/', // дуже важливо для правильних шляхів
 });
